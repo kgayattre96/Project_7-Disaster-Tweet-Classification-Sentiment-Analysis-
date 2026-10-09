@@ -4,7 +4,7 @@ An NLP-based machine learning application that classifies tweets as disaster-rel
 
 ## 🚀 Live Demo
 
-**Streamlit App:** (https://project7-disaster-tweet-classification-sentiment-analysis-git.streamlit.app/)
+**Streamlit App:** [Launch Disaster Tweet Analyzer](https://project7-disaster-tweet-classification-sentiment-analysis-git.streamlit.app/)
 
 Try entering a tweet to view its predicted disaster classification, model confidence, and sentiment score.
 
