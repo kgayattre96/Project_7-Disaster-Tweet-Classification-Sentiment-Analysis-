@@ -23,3 +23,7 @@ __pycache__/
 *.log
 .DS_Store
 Thumbs.db
+
+# Other common exclusions
+*.swp
+*.swo
