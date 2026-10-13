@@ -140,3 +140,8 @@ python -m streamlit run app.py
 ## 👩‍💻 Author
 
 Developed as an NLP and machine learning project demonstrating text classification, transformer-based modeling, sentiment analysis, and application deployment.
+
+
+## 📊 Project Presentation
+
+[View or download the NLP Project Presentation](PPT/Disaster_Tweet_Classification_Sentiment_Analysis_Presentation.pptx)
